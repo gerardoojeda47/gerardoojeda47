@@ -1,0 +1,44 @@
+{
+  "name": "gerardo-ojeda-profile",
+  "version": "1.0.0",
+  "description": "Perfil profesional de GitHub con animaciones y diseño moderno",
+  "main": "scripts/update-profile.js",
+  "scripts": {
+    "update": "node scripts/update-profile.js",
+    "dev": "node scripts/update-profile.js",
+    "build": "echo 'Build completed'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "developer",
+    "portfolio",
+    "animations"
+  ],
+  "author": {
+    "name": "Gerardo Ojeda",
+    "email": "gerardo.ojeda@email.com",
+    "url": "https://github.com/gerardoojeda47"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerardoojeda47/gerardoojeda47.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gerardoojeda47/gerardoojeda47/issues"
+  },
+  "homepage": "https://github.com/gerardoojeda47#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^2.8.0"
+  }
+}
