@@ -58,14 +58,11 @@
   <a href="https://github.com/gerardoojeda47" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/gerardo-ojeda" target="_blank">
+  <a href="https://www.linkedin.com/in/gerardo-ojeda-756666385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gerardo.ojeda@email.com" target="_blank">
+  <a href="mailto:gerardozapatos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://gerardoojeda.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -364,9 +361,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerardoojeda47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardo-ojeda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardo.ojeda@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://gerardoojeda.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-ojeda-756666385)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardozapatos@gmail.com)
 
 </div>
 
@@ -394,46 +390,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 ## 🎨 Áreas de Especialización
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Specialties" />
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Skills" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Expertise" />
-  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="150" alt="Abilities" />
-</div>
+  <img src="https://
 
-### 📱 Desarrollo Móvil Multiplataforma
-- **Flutter & Dart**: Desarrollo nativo multiplataforma con rendimiento optimizado
-- **Arquitectura MVVM**: Implementación de patrones de diseño escalables
-- **UI/UX Design**: Creación de interfaces intuitivas y experiencias de usuario excepcionales
-- **Firebase Integration**: Backend as a Service para aplicaciones móviles
-
-### 🌐 Desarrollo Web
-- **Frontend Básico**: HTML5, CSS3, JavaScript, React.js
-- **Backend Junior**: Node.js, Express.js (en aprendizaje)
-- **Bases de Datos**: MongoDB Atlas, MySQL, Firebase (nivel básico)
-- **Cloud & Hosting**: Vercel, Netlify, GitHub Pages
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=gerardoojeda47&style=for-the-badge&color=blue)
-
-**¡Gracias por visitar mi perfil!** ⭐
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Thank You" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Thanks" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Gratitude" />
-  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="200" alt="Appreciation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
 
 
 
