@@ -14,9 +14,10 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Mobile Animation" />
 </div>
 
-Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones que cambien el mundo. Me especializo en **Flutter**, **JavaScript** y tecnologías modernas para crear experiencias digitales excepcionales tanto en web como en móvil.
+Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones increíbles. Me especializo en **Flutter**, **JavaScript** y tecnologías modernas para crear experiencias digitales excepcionales tanto en web como en móvil. ¡Siempre aprendiendo y mejorando!
 
 ### 🎯 Características Profesionales
 
@@ -47,44 +48,39 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones q
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ☁️ Cloud & Hosting
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -94,13 +90,21 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones q
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardoojeda47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoojeda47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Stats Animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerardoojeda47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gerardoojeda47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoojeda47&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes%20Más%20Usados" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerardoojeda47&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerardoojeda47&theme=tokyonight&hide_border=true&custom_title=Actividad%20de%20GitHub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC" alt="Activity Graph" />
 </div>
 
 ---
@@ -112,65 +116,65 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones q
 </div>
 
 ### 📱 [FlutterEats - App de Delivery](https://github.com/gerardoojeda47/flutter-eats)
-Una aplicación móvil completa de delivery con Flutter que revoluciona la experiencia de pedidos.
+Una aplicación móvil de delivery desarrollada con Flutter para aprender y practicar desarrollo móvil.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Flutter" />
 </div>
 
-**Tecnologías:** Flutter, Dart, Firebase, Google Maps API
+**Tecnologías:** Flutter, Dart, Firebase, MongoDB Atlas
 **Características:**
-- 🎨 UI/UX moderna con Material Design 3
-- 📍 Geolocalización en tiempo real
-- 💳 Integración de pagos con Stripe
-- 🔔 Notificaciones push
-- 🌐 Multiplataforma (iOS & Android)
-- ⚡ Rendimiento nativo optimizado
+- 🎨 UI moderna con Material Design
+- 📍 Geolocalización básica
+- 🔥 Integración con Firebase
+- 📱 Diseño responsive
+- 🌐 Multiplataforma (Android & iOS)
+- ⚡ Optimización de rendimiento
 
 ### 🚀 [RutasApp - Gestión de Rutas](https://github.com/gerardoojeda47/rutasapp)
-Aplicación web y móvil para optimización de rutas de entrega.
+Aplicación web para gestión y optimización de rutas de entrega.
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Web" />
 </div>
 
-**Tecnologías:** React Native, Node.js, MongoDB, Mapbox
+**Tecnologías:** JavaScript, Node.js, MongoDB Atlas, HTML/CSS
 **Características:**
-- 🗺️ Integración avanzada con mapas
-- 📊 Dashboard analítico en tiempo real
-- 📱 App móvil híbrida
-- ⚡ Algoritmos de optimización de rutas
-- 🔄 Sincronización en tiempo real
+- 🗺️ Integración con mapas básicos
+- 📊 Dashboard simple y funcional
+- 📱 Diseño responsive
+- ⚡ Optimización de rutas básica
+- 🔄 Interfaz intuitiva
 
-### 🧪 [MobileTestSuite - Testing Automatizado](https://github.com/gerardoojeda47/-Pruebas-Automatizadas...)
-Suite completa de testing para aplicaciones móviles y web.
+### 🧪 [Pruebas Automatizadas](https://github.com/gerardoojeda47/-Pruebas-Automatizadas...)
+Sistema de testing automatizado para aplicaciones web.
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Testing" />
 </div>
 
-**Tecnologías:** Flutter Driver, Appium, Jest, Selenium
+**Tecnologías:** JavaScript, Jest, Selenium, Node.js
 **Características:**
-- 🤖 Testing automatizado para Flutter
-- 📱 Pruebas en dispositivos reales
-- 📊 Reportes visuales detallados
-- 🚀 Integración CI/CD completa
-- 🎯 Cobertura de testing del 95%
+- 🤖 Testing automatizado básico
+- 📱 Pruebas en navegadores
+- 📊 Reportes simples
+- 🚀 Integración con GitHub Actions
+- 🎯 Testing de funcionalidades principales
 
-### 🎮 [GameHub - Plataforma de Juegos](https://github.com/gerardoojeda47/gamehub)
-Plataforma social para gamers con chat en tiempo real.
+### 🌐 [Portfolio Web](https://github.com/gerardoojeda47/portfolio)
+Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Gaming" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Portfolio" />
 </div>
 
-**Tecnologías:** Flutter, Socket.io, Node.js, Redis
+**Tecnologías:** HTML5, CSS3, JavaScript, Bootstrap
 **Características:**
-- 🎮 Integración con APIs de gaming
-- 💬 Chat en tiempo real
-- 👥 Sistema de amigos y grupos
-- 🏆 Sistema de logros y rankings
-- 📱 Diseño responsive multiplataforma
+- 🎨 Diseño moderno y responsive
+- 📱 Compatible con móviles
+- ⚡ Carga rápida y optimizada
+- 🌐 Desplegado en GitHub Pages
+- 📊 Showcase de proyectos
 
 ---
 
@@ -187,37 +191,46 @@ Plataforma social para gamers con chat en tiempo real.
 </div>
 
 ### 🏆 Logros Profesionales
-- 🥇 **Desarrollador Flutter del Año** - TechCrunch Colombia 2024
-- 🚀 **Mejor App Móvil** - Hackathon Mobile World Congress 2024
-- 💡 **Innovación en UI/UX** - Google Developer Groups 2024
-- 📱 **100+ Apps Publicadas** en Play Store y App Store
-- ⭐ **50,000+ Descargas** de aplicaciones desarrolladas
+- 🚀 **Desarrollador en Crecimiento** - Enfocado en Flutter y Mobile
+- 💡 **Proyectos Innovadores** - Creando soluciones prácticas
+- 📱 **Apps en Desarrollo** - Proyectos personales y de aprendizaje
+- ⭐ **Contribuciones Activas** - Participando en la comunidad
+- 🎯 **Aprendizaje Continuo** - Siempre mejorando mis habilidades
 
-### 📊 Estadísticas Impresionantes
+### 📊 Estadísticas Reales
 - 🏆 **124 contribuciones** en el último año
 - 🎯 **49 repositorios** creados
-- 📱 **15+ Apps Flutter** en producción
-- 🌐 **25+ Proyectos Web** desplegados
-- 👥 **500+ Usuarios** activos en mis aplicaciones
+- 📱 **Proyectos Flutter** en desarrollo
+- 🌐 **Proyectos Web** con tecnologías modernas
+- 👥 **Comunidad** de desarrolladores
 - 🚀 **Desarrollo continuo** y mejora constante
 
-### 🎓 Certificaciones
-- ✅ **Google Flutter Certified Developer**
-- ✅ **AWS Mobile Developer Specialty**
-- ✅ **Firebase Certified Developer**
-- ✅ **Google Cloud Professional Developer**
+### 🎓 En Proceso de Aprendizaje
+- 📚 **Flutter & Dart** - Desarrollo móvil multiplataforma
+- 🔥 **Firebase** - Backend as a Service
+- ☁️ **MongoDB Atlas** - Base de datos en la nube
+- 🌐 **React** - Frontend moderno
+- ⚙️ **Node.js** - Backend con JavaScript
 
 ---
 
 ## 📈 Actividad Reciente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerardoojeda47&theme=tokyonight&hide_border=true&custom_title=Actividad%20de%20GitHub" alt="Activity Graph" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Activity Animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerardoojeda47&theme=tokyonight&hide_border=true&custom_title=Actividad%20de%20GitHub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 🤝 Conecta Conmigo
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Contact Animation" />
+</div>
 
 <div align="center">
 
@@ -226,6 +239,10 @@ Plataforma social para gamers con chat en tiempo real.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardo.ojeda@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://gerardoojeda.dev)
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Social Animation" />
 </div>
 
 ---
@@ -279,6 +296,7 @@ Plataforma social para gamers con chat en tiempo real.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
