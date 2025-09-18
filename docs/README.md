@@ -1,11 +1,11 @@
 # ¡Hola! 👋 Soy Gerardo Ojeda
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Especialista+en+Flutter;Desarrollador+Móvil;Experto+en+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Especialista+en+Flutter;Desarrollador+Móvil;Aprendiendo+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Gerardo%20Ojeda&fontSize=50&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Gerardo%20Ojeda&fontSize=50&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 ---
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Mobile Animation" />
 </div>
 
-Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones increíbles. Me especializo en **Flutter**, **JavaScript** y tecnologías modernas para crear experiencias digitales excepcionales tanto en web como en móvil. ¡Siempre aprendiendo y mejorando!
+Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. Me especializo en **Flutter** y estoy aprendiendo **JavaScript** para crear experiencias digitales tanto en web como en móvil. ¡Siempre aprendiendo y mejorando!
 
 ### 🎯 Características Profesionales
 
@@ -26,12 +26,13 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones i
 </div>
 
 - **💡 Creatividad**: Siempre busco nuevas formas de resolver problemas
-- **🔧 Técnico**: Experto en múltiples tecnologías y frameworks
-- **📱 Mobile First**: Especialista en desarrollo de aplicaciones móviles
+- **🔧 Técnico**: Aprendiendo múltiples tecnologías y frameworks
+- **📱 Mobile First**: Enfocado en desarrollo de aplicaciones móviles
 - **📈 Proactivo**: Me mantengo actualizado con las últimas tendencias
 - **🤝 Colaborativo**: Trabajo excelente en equipo
 - **⚡ Eficiente**: Optimizo procesos y código para mejor rendimiento
 - **🎨 UI/UX**: Enfoque en experiencias de usuario excepcionales
+- **📚 Aprendizaje**: Siempre dispuesto a aprender nuevas tecnologías
 
 ---
 
@@ -39,6 +40,7 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones i
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Tech Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Code Animation" />
 </div>
 
 <div align="center">
@@ -91,6 +93,7 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones i
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Stats Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Chart Animation" />
 </div>
 
 <div align="center">
@@ -113,6 +116,7 @@ Soy un **desarrollador Full Stack y Mobile** apasionado por crear aplicaciones i
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Projects Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Code Projects" />
 </div>
 
 ### 📱 [FlutterEats - App de Delivery](https://github.com/gerardoojeda47/flutter-eats)
@@ -182,6 +186,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Achievements" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Trophy" />
 </div>
 
 <div align="center">
@@ -218,6 +223,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Activity Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Git Animation" />
 </div>
 
 <div align="center">
@@ -230,6 +236,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Contact Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Social Animation" />
 </div>
 
 <div align="center">
@@ -251,6 +258,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Inspiration" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Quote" />
 </div>
 
 <div align="center">
@@ -263,19 +271,20 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Specialties" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Skills" />
 </div>
 
 ### 📱 Desarrollo Móvil
 - **Flutter**: Apps nativas multiplataforma
-- **React Native**: Desarrollo híbrido eficiente
+- **Dart**: Lenguaje de programación para Flutter
 - **UI/UX**: Diseño centrado en el usuario
-- **Performance**: Optimización de rendimiento
+- **Firebase**: Backend as a Service
 
-### 🌐 Full Stack
-- **Frontend**: React, Vue.js, Angular
-- **Backend**: Node.js, Python, APIs REST
-- **Bases de Datos**: MongoDB, PostgreSQL, Firebase
-- **Cloud**: AWS, Google Cloud, Azure
+### 🌐 Desarrollo Web
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express.js
+- **Bases de Datos**: MongoDB Atlas, MySQL
+- **Hosting**: Vercel, Netlify, GitHub Pages
 
 ---
 
@@ -289,6 +298,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Thank You" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Thanks" />
 </div>
 
 ---
@@ -296,6 +306,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
+
 
 
 
