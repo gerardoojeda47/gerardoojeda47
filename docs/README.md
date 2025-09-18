@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Gerardo%20Ojeda&fontSize=40&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile%20Developer&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gerardo%20Ojeda&fontSize=50&fontAlignY=35&desc=Desarrollador%20Junior%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/gerardo-ojeda-756666385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gerardozapatos@gmail.com" target="_blank">
+  <a href="mailto:gerardozapatos@gmail.com?subject=Contacto%20Profesional&body=Hola%20Gerardo,%0A%0AMe%20pongo%20en%20contacto%20contigo%20desde%20tu%20perfil%20de%20GitHub.%0A%0ASaludos!" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -362,7 +362,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerardoojeda47)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-ojeda-756666385)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardozapatos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardozapatos@gmail.com?subject=Contacto%20Profesional&body=Hola%20Gerardo,%0A%0AMe%20pongo%20en%20contacto%20contigo%20desde%20tu%20perfil%20de%20GitHub.%0A%0ASaludos!)
 
 </div>
 
