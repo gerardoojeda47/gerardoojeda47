@@ -13,14 +13,32 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desarrollador-Junior-blue?style=for-the-badge&logo=developer&logoColor=white" alt="Junior Developer" />
+  <img src="https://img.shields.io/badge/Desarrollador-Junior-007ACC?style=for-the-badge&logo=developer&logoColor=white" alt="Junior Developer" />
   <img src="https://img.shields.io/badge/Especialidad-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Estado-Aprendiendo-green?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Estado-Aprendiendo-00D4FF?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Mobile-Developer-FF6B6B?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Welcome Animation" />
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Developer Animation" />
+</div>
+
+<div align="center">
+  <h4>💡 "Cada línea de código es un paso hacia el futuro"</h4>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Colombia-FF6B6B?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Disponible-Para%20Proyectos-00D4FF?style=for-the-badge&logo=work&logoColor=white" alt="Available" />
+  <img src="https://img.shields.io/badge/Experiencia-Junior-007ACC?style=for-the-badge&logo=star&logoColor=white" alt="Experience" />
 </div>
 
 ---
@@ -352,6 +370,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
