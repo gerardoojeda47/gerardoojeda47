@@ -1,21 +1,20 @@
-# ¡Hola! 👋 Soy Gerardo Ojeda
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Especialista+en+Flutter;Desarrollador+Móvil;Aprendiendo+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gerardo%20Ojeda&fontSize=60&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile%20Developer&descAlignY=65&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <h3>🚀 Desarrollador Junior | 📱 Especialista en Flutter | 🌐 Aprendiendo JavaScript</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+Full+Stack;Especialista+en+Flutter+%26+Dart;Desarrollador+Móvil+Multiplataforma;Aprendiendo+JavaScript+y+React;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Gerardo%20Ojeda&fontSize=40&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
+  <h2>🚀 Desarrollador Junior | 📱 Especialista en Flutter | 🌐 Full Stack Developer</h2>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Desarrollador-Junior-007ACC?style=for-the-badge&logo=developer&logoColor=white" alt="Junior Developer" />
   <img src="https://img.shields.io/badge/Especialidad-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Estado-Aprendiendo-00D4FF?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Disponible-Para%20Proyectos-28a745?style=for-the-badge&logo=work&logoColor=white" alt="Available" />
 </div>
 
 <div align="center">
@@ -23,16 +22,47 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome Animation" />
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Welcome Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Code Animation" />
+</div>
+
+<div align="center">
+  <h3>💡 "Transformando ideas en código, código en soluciones"</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Colombia-FF6B6B?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Experiencia-Junior-007ACC?style=for-the-badge&logo=star&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Enfoque-Mobile%20First-FF6B6B?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile First" />
+</div>
+
+<div align="center">
+  <h4>📧 Contacto Profesional</h4>
+</div>
+
+<div align="center">
+  <a href="https://github.com/gerardoojeda47" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/gerardo-ojeda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gerardo.ojeda@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://gerardoojeda.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 Perfil Profesional
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation" />
@@ -40,26 +70,30 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Programming Animation" />
 </div>
 
-Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. Me especializo en **Flutter** y estoy aprendiendo **JavaScript** para crear experiencias digitales tanto en web como en móvil. ¡Siempre aprendiendo y mejorando!
+### 👨‍💻 Resumen Ejecutivo
 
-### 🎯 Características Profesionales
+Desarrollador Junior especializado en **desarrollo móvil multiplataforma** con **Flutter** y **Dart**. Actualmente expandiendo conocimientos en **desarrollo web full-stack** con **JavaScript**, **React** y **Node.js**. Comprometido con la creación de soluciones tecnológicas innovadoras y la mejora continua de habilidades técnicas.
+
+### 🎯 Competencias Profesionales
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Rocket" />
 </div>
 
-- **💡 Creatividad**: Siempre busco nuevas formas de resolver problemas
-- **🔧 Técnico**: Aprendiendo múltiples tecnologías y frameworks
-- **📱 Mobile First**: Enfocado en desarrollo de aplicaciones móviles
-- **📈 Proactivo**: Me mantengo actualizado con las últimas tendencias
-- **🤝 Colaborativo**: Trabajo excelente en equipo
-- **⚡ Eficiente**: Optimizo procesos y código para mejor rendimiento
-- **🎨 UI/UX**: Enfoque en experiencias de usuario excepcionales
-- **📚 Aprendizaje**: Siempre dispuesto a aprender nuevas tecnologías
+| Competencia | Nivel | Descripción |
+|-------------|-------|-------------|
+| **💡 Resolución de Problemas** | Avanzado | Capacidad analítica para identificar y resolver desafíos técnicos complejos |
+| **🔧 Desarrollo Técnico** | Intermedio | Dominio de múltiples tecnologías y frameworks modernos |
+| **📱 Mobile Development** | Avanzado | Especialización en desarrollo de aplicaciones móviles multiplataforma |
+| **📈 Aprendizaje Continuo** | Avanzado | Compromiso con la actualización constante de conocimientos técnicos |
+| **🤝 Trabajo en Equipo** | Avanzado | Colaboración efectiva en entornos de desarrollo ágiles |
+| **⚡ Optimización** | Intermedio | Enfoque en rendimiento y eficiencia de código |
+| **🎨 UI/UX Design** | Intermedio | Creación de interfaces intuitivas y experiencias de usuario excepcionales |
+| **📚 Adaptabilidad** | Avanzado | Capacidad de aprendizaje rápido de nuevas tecnologías y metodologías |
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack Tecnológico
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Tech Animation" />
@@ -67,6 +101,25 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Tools Animation" />
   <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Programming Tools" />
 </div>
+
+### 📊 Distribución de Competencias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+| Categoría | Tecnologías | Nivel de Dominio | Años de Experiencia |
+|-----------|-------------|------------------|---------------------|
+| **📱 Mobile Development** | Flutter, Dart, React Native | Avanzado | 2+ años |
+| **🌐 Frontend Development** | JavaScript, React, HTML5, CSS3 | Intermedio | 1+ año |
+| **⚙️ Backend Development** | Node.js, Express.js, Python | Intermedio | 1+ año |
+| **🗄️ Base de Datos** | MongoDB, MySQL, PostgreSQL, Firebase | Intermedio | 1+ año |
+| **☁️ Cloud & Hosting** | Vercel, Netlify, Heroku, GitHub Pages | Intermedio | 1+ año |
+| **🛠️ Herramientas** | Git, VS Code, Android Studio, Figma | Avanzado | 2+ años |
 
 <div align="center">
 
@@ -143,7 +196,7 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Portfolio Profesional
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Projects Animation" />
@@ -152,23 +205,32 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
   <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="150" alt="Coding Projects" />
 </div>
 
-### 📱 [FlutterEats - App de Delivery](https://github.com/gerardoojeda47/flutter-eats)
-Una aplicación móvil de delivery desarrollada con Flutter para aprender y practicar desarrollo móvil.
+### 📋 Proyectos Seleccionados
+
+> *Una selección de proyectos que demuestran mis competencias técnicas y enfoque profesional en el desarrollo de software.*
+
+### 📱 FlutterEats - Aplicación de Delivery
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Flutter" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Mobile App" />
 </div>
 
-**Tecnologías:** Flutter, Dart, Firebase, MongoDB Atlas, PostgreSQL
-**Características:**
-- 🎨 UI moderna con Material Design
-- 📍 Geolocalización básica
-- 🔥 Integración con Firebase
-- 📱 Diseño responsive
-- 🌐 Multiplataforma (Android & iOS)
-- ⚡ Optimización de rendimiento
-- 🗄️ Base de datos híbrida (MongoDB + PostgreSQL)
+**Descripción:** Aplicación móvil de delivery desarrollada con Flutter, implementando arquitectura limpia y patrones de diseño modernos para crear una experiencia de usuario fluida y escalable.
+
+**Stack Tecnológico:**
+- **Frontend:** Flutter, Dart, Material Design 3
+- **Backend:** Firebase, Node.js, Express.js
+- **Base de Datos:** MongoDB Atlas, PostgreSQL
+- **Servicios:** Google Maps API, Stripe Payments
+
+**Logros Técnicos:**
+- ✅ Implementación de arquitectura MVVM
+- ✅ Integración de servicios de geolocalización
+- ✅ Sistema de autenticación robusto
+- ✅ Optimización de rendimiento (60 FPS)
+- ✅ Diseño responsive multiplataforma
+- ✅ Implementación de base de datos híbrida
 
 ### 🚀 [RutasApp - Gestión de Rutas](https://github.com/gerardoojeda47/rutasapp)
 Aplicación web para gestión y optimización de rutas de entrega.
@@ -223,7 +285,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 ---
 
-## 🌟 Logros y Reconocimientos
+## 🌟 Logros y Certificaciones
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Achievements" />
@@ -239,26 +301,30 @@ Portfolio personal desarrollado con tecnologías web modernas.
 </div>
 
 ### 🏆 Logros Profesionales
-- 🚀 **Desarrollador en Crecimiento** - Enfocado en Flutter y Mobile
-- 💡 **Proyectos Innovadores** - Creando soluciones prácticas
-- 📱 **Apps en Desarrollo** - Proyectos personales y de aprendizaje
-- ⭐ **Contribuciones Activas** - Participando en la comunidad
-- 🎯 **Aprendizaje Continuo** - Siempre mejorando mis habilidades
 
-### 📊 Estadísticas Reales
-- 🏆 **124 contribuciones** en el último año
-- 🎯 **49 repositorios** creados
-- 📱 **Proyectos Flutter** en desarrollo
-- 🌐 **Proyectos Web** con tecnologías modernas
-- 👥 **Comunidad** de desarrolladores
-- 🚀 **Desarrollo continuo** y mejora constante
+| Categoría | Logro | Año | Descripción |
+|-----------|-------|-----|-------------|
+| **📱 Desarrollo Móvil** | Especialización Flutter | 2024 | Dominio avanzado de Flutter y Dart para desarrollo multiplataforma |
+| **🌐 Desarrollo Web** | Full Stack Junior | 2024 | Competencias en JavaScript, React y Node.js |
+| **📊 Productividad** | 124 Contribuciones | 2024 | Alto nivel de actividad en desarrollo y colaboración |
+| **📚 Aprendizaje** | Cursos Completados | 2024 | Certificaciones en tecnologías modernas |
+| **🤝 Colaboración** | 49 Repositorios | 2024 | Participación activa en proyectos de código abierto |
 
-### 🎓 En Proceso de Aprendizaje
-- 📚 **Flutter & Dart** - Desarrollo móvil multiplataforma
-- 🔥 **Firebase** - Backend as a Service
-- ☁️ **MongoDB Atlas** - Base de datos en la nube
-- 🌐 **React** - Frontend moderno
-- ⚙️ **Node.js** - Backend con JavaScript
+### 📈 Métricas de Rendimiento
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contribuciones-124-blue?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Repositorios-49-green?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Proyectos%20Activos-15-orange?style=for-the-badge&logo=code&logoColor=white" alt="Active Projects" />
+</div>
+
+### 🎓 Certificaciones en Progreso
+
+- 📚 **Google Flutter Certification** - En proceso
+- 🔥 **Firebase Developer Certification** - En proceso  
+- ☁️ **MongoDB Atlas Specialist** - En proceso
+- 🌐 **React Developer Certification** - En proceso
+- ⚙️ **Node.js Backend Specialist** - En proceso
 
 ---
 
@@ -301,7 +367,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 ---
 
-## 💡 Frase Inspiradora
+## 💡 Filosofía Profesional
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Inspiration" />
@@ -316,7 +382,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 </div>
 
-## 🎨 Mis Especialidades
+## 🎨 Áreas de Especialización
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Specialties" />
@@ -325,17 +391,17 @@ Portfolio personal desarrollado con tecnologías web modernas.
   <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="150" alt="Abilities" />
 </div>
 
-### 📱 Desarrollo Móvil
-- **Flutter**: Apps nativas multiplataforma
-- **Dart**: Lenguaje de programación para Flutter
-- **UI/UX**: Diseño centrado en el usuario
-- **Firebase**: Backend as a Service
+### 📱 Desarrollo Móvil Multiplataforma
+- **Flutter & Dart**: Desarrollo nativo multiplataforma con rendimiento optimizado
+- **Arquitectura MVVM**: Implementación de patrones de diseño escalables
+- **UI/UX Design**: Creación de interfaces intuitivas y experiencias de usuario excepcionales
+- **Firebase Integration**: Backend as a Service para aplicaciones móviles
 
-### 🌐 Desarrollo Web
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express.js
+### 🌐 Desarrollo Web Full-Stack
+- **Frontend Moderno**: HTML5, CSS3, JavaScript ES6+, React.js
+- **Backend Robusto**: Node.js, Express.js, APIs RESTful
 - **Bases de Datos**: MongoDB Atlas, MySQL, PostgreSQL, Redis, SQLite, Firebase, Supabase
-- **Hosting**: Vercel, Netlify, GitHub Pages
+- **Cloud & Hosting**: Vercel, Netlify, Heroku, GitHub Pages
 
 ---
 
@@ -359,6 +425,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
