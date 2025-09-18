@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Animation" />
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Mobile Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Programming Animation" />
 </div>
 
 Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. Me especializo en **Flutter** y estoy aprendiendo **JavaScript** para crear experiencias digitales tanto en web como en móvil. ¡Siempre aprendiendo y mejorando!
@@ -41,6 +42,8 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Tech Animation" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Code Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Tools Animation" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Programming Tools" />
 </div>
 
 <div align="center">
@@ -70,7 +73,11 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ☁️ Cloud & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -94,6 +101,8 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Stats Animation" />
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Chart Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Data Animation" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Analytics" />
 </div>
 
 <div align="center">
@@ -117,6 +126,8 @@ Soy un **desarrollador Junior** apasionado por crear aplicaciones increíbles. M
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Projects Animation" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Code Projects" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Development" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="150" alt="Coding Projects" />
 </div>
 
 ### 📱 [FlutterEats - App de Delivery](https://github.com/gerardoojeda47/flutter-eats)
@@ -124,9 +135,10 @@ Una aplicación móvil de delivery desarrollada con Flutter para aprender y prac
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Flutter" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Mobile App" />
 </div>
 
-**Tecnologías:** Flutter, Dart, Firebase, MongoDB Atlas
+**Tecnologías:** Flutter, Dart, Firebase, MongoDB Atlas, PostgreSQL
 **Características:**
 - 🎨 UI moderna con Material Design
 - 📍 Geolocalización básica
@@ -134,51 +146,58 @@ Una aplicación móvil de delivery desarrollada con Flutter para aprender y prac
 - 📱 Diseño responsive
 - 🌐 Multiplataforma (Android & iOS)
 - ⚡ Optimización de rendimiento
+- 🗄️ Base de datos híbrida (MongoDB + PostgreSQL)
 
 ### 🚀 [RutasApp - Gestión de Rutas](https://github.com/gerardoojeda47/rutasapp)
 Aplicación web para gestión y optimización de rutas de entrega.
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Web" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="50" alt="Web App" />
 </div>
 
-**Tecnologías:** JavaScript, Node.js, MongoDB Atlas, HTML/CSS
+**Tecnologías:** JavaScript, Node.js, MongoDB Atlas, MySQL, Redis, HTML/CSS
 **Características:**
 - 🗺️ Integración con mapas básicos
 - 📊 Dashboard simple y funcional
 - 📱 Diseño responsive
 - ⚡ Optimización de rutas básica
 - 🔄 Interfaz intuitiva
+- 🗄️ Cache con Redis para mejor rendimiento
 
 ### 🧪 [Pruebas Automatizadas](https://github.com/gerardoojeda47/-Pruebas-Automatizadas...)
 Sistema de testing automatizado para aplicaciones web.
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" alt="Testing" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Automation" />
 </div>
 
-**Tecnologías:** JavaScript, Jest, Selenium, Node.js
+**Tecnologías:** JavaScript, Jest, Selenium, Node.js, SQLite
 **Características:**
 - 🤖 Testing automatizado básico
 - 📱 Pruebas en navegadores
 - 📊 Reportes simples
 - 🚀 Integración con GitHub Actions
 - 🎯 Testing de funcionalidades principales
+- 🗄️ Base de datos SQLite para pruebas
 
 ### 🌐 [Portfolio Web](https://github.com/gerardoojeda47/portfolio)
 Portfolio personal desarrollado con tecnologías web modernas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Portfolio" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Website" />
 </div>
 
-**Tecnologías:** HTML5, CSS3, JavaScript, Bootstrap
+**Tecnologías:** HTML5, CSS3, JavaScript, Bootstrap, Supabase
 **Características:**
 - 🎨 Diseño moderno y responsive
 - 📱 Compatible con móviles
 - ⚡ Carga rápida y optimizada
 - 🌐 Desplegado en GitHub Pages
 - 📊 Showcase de proyectos
+- 🗄️ Base de datos Supabase para formularios
 
 ---
 
@@ -187,6 +206,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Achievements" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Trophy" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Success" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Awards" />
 </div>
 
 <div align="center">
@@ -224,6 +245,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Activity Animation" />
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Git Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Commit Animation" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Code Activity" />
 </div>
 
 <div align="center">
@@ -237,6 +260,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Contact Animation" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Social Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Network Animation" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Connect Animation" />
 </div>
 
 <div align="center">
@@ -259,6 +284,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" alt="Inspiration" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Quote" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Motivation" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="100" alt="Wisdom" />
 </div>
 
 <div align="center">
@@ -272,6 +299,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Specialties" />
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Skills" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Expertise" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="150" alt="Abilities" />
 </div>
 
 ### 📱 Desarrollo Móvil
@@ -283,7 +312,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 ### 🌐 Desarrollo Web
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js
-- **Bases de Datos**: MongoDB Atlas, MySQL
+- **Bases de Datos**: MongoDB Atlas, MySQL, PostgreSQL, Redis, SQLite, Firebase, Supabase
 - **Hosting**: Vercel, Netlify, GitHub Pages
 
 ---
@@ -299,6 +328,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Thank You" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Thanks" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Gratitude" />
+  <img src="https://media.giphy.com/media/2YjJfQ2IQsQY/giphy.gif" width="200" alt="Appreciation" />
 </div>
 
 ---
@@ -306,6 +337,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
