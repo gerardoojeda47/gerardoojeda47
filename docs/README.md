@@ -9,14 +9,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Gerardo%20Ojeda&fontSize=50&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Gerardo%20Ojeda&fontSize=40&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Desarrollador-Junior-007ACC?style=for-the-badge&logo=developer&logoColor=white" alt="Junior Developer" />
   <img src="https://img.shields.io/badge/Especialidad-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Estado-Aprendiendo-00D4FF?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
-  <img src="https://img.shields.io/badge/Mobile-Developer-FF6B6B?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile" />
 </div>
 
 <div align="center">
@@ -27,18 +26,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Welcome Animation" />
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Developer Animation" />
-</div>
-
-<div align="center">
-  <h4>💡 "Cada línea de código es un paso hacia el futuro"</h4>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Ubicación-Colombia-FF6B6B?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Disponible-Para%20Proyectos-00D4FF?style=for-the-badge&logo=work&logoColor=white" alt="Available" />
-  <img src="https://img.shields.io/badge/Experiencia-Junior-007ACC?style=for-the-badge&logo=star&logoColor=white" alt="Experience" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Developer Animation" />
 </div>
 
 ---
@@ -370,6 +359,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
