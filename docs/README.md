@@ -1,11 +1,26 @@
 # ¡Hola! 👋 Soy Gerardo Ojeda
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Especialista+en+Flutter;Desarrollador+Móvil;Aprendiendo+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Especialista+en+Flutter;Desarrollador+Móvil;Aprendiendo+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>🚀 Desarrollador Junior | 📱 Especialista en Flutter | 🌐 Aprendiendo JavaScript</h3>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Gerardo%20Ojeda&fontSize=50&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile&descAlignY=60&descAlign=50" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-Junior-blue?style=for-the-badge&logo=developer&logoColor=white" alt="Junior Developer" />
+  <img src="https://img.shields.io/badge/Especialidad-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Estado-Aprendiendo-green?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Welcome Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Developer Animation" />
 </div>
 
 ---
@@ -337,6 +352,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
