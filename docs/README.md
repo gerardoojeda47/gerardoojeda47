@@ -1,13 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gerardo%20Ojeda&fontSize=60&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile%20Developer&descAlignY=65&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Especialista+en+Flutter;Desarrollador+Móvil;Aprendiendo+JavaScript;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+Full+Stack;Especialista+en+Flutter+%26+Dart;Desarrollador+Móvil+Multiplataforma;Aprendiendo+JavaScript+y+React;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <h3>💻 Desarrollador Junior | 📱 Flutter | 🌐 Frontend | 📚 Aprendiendo</h3>
 </div>
 
 <div align="center">
-  <h2>🚀 Desarrollador Junior | 📱 Especialista en Flutter | 🌐 Full Stack Developer</h2>
+  <h2>🚀 Desarrollador Junior | 📱 Especialista en Flutter | 🌐 Frontend Developer</h2>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Gerardo%20Ojeda&fontSize=40&fontAlignY=40&desc=Desarrollador%20Junior%20%26%20Mobile%20Developer&descAlignY=60&descAlign=50" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Welcome Animation" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" alt="Developer Animation" />
 </div>
 
 <div align="center">
@@ -72,7 +81,7 @@
 
 ### 👨‍💻 Resumen Ejecutivo
 
-Desarrollador Junior especializado en **desarrollo móvil multiplataforma** con **Flutter** y **Dart**. Actualmente expandiendo conocimientos en **desarrollo web full-stack** con **JavaScript**, **React** y **Node.js**. Comprometido con la creación de soluciones tecnológicas innovadoras y la mejora continua de habilidades técnicas.
+Desarrollador Junior especializado en **desarrollo móvil multiplataforma** con **Flutter** y **Dart**. Actualmente expandiendo conocimientos en **desarrollo web** con **JavaScript** y **React**. Con 1 año de experiencia en desarrollo de software, comprometido con la creación de soluciones tecnológicas innovadoras y la mejora continua de habilidades técnicas.
 
 ### 🎯 Competencias Profesionales
 
@@ -82,13 +91,13 @@ Desarrollador Junior especializado en **desarrollo móvil multiplataforma** con 
 
 | Competencia | Nivel | Descripción |
 |-------------|-------|-------------|
-| **💡 Resolución de Problemas** | Avanzado | Capacidad analítica para identificar y resolver desafíos técnicos complejos |
-| **🔧 Desarrollo Técnico** | Intermedio | Dominio de múltiples tecnologías y frameworks modernos |
-| **📱 Mobile Development** | Avanzado | Especialización en desarrollo de aplicaciones móviles multiplataforma |
+| **💡 Resolución de Problemas** | Intermedio | Capacidad analítica para identificar y resolver desafíos técnicos básicos |
+| **🔧 Desarrollo Técnico** | Junior | Conocimiento de tecnologías y frameworks modernos en desarrollo |
+| **📱 Mobile Development** | Intermedio | Especialización en desarrollo de aplicaciones móviles con Flutter |
 | **📈 Aprendizaje Continuo** | Avanzado | Compromiso con la actualización constante de conocimientos técnicos |
-| **🤝 Trabajo en Equipo** | Avanzado | Colaboración efectiva en entornos de desarrollo ágiles |
-| **⚡ Optimización** | Intermedio | Enfoque en rendimiento y eficiencia de código |
-| **🎨 UI/UX Design** | Intermedio | Creación de interfaces intuitivas y experiencias de usuario excepcionales |
+| **🤝 Trabajo en Equipo** | Intermedio | Colaboración efectiva en entornos de desarrollo |
+| **⚡ Optimización** | Junior | Enfoque en rendimiento y eficiencia de código básico |
+| **🎨 UI/UX Design** | Junior | Creación de interfaces intuitivas y experiencias de usuario |
 | **📚 Adaptabilidad** | Avanzado | Capacidad de aprendizaje rápido de nuevas tecnologías y metodologías |
 
 ---
@@ -114,12 +123,12 @@ Desarrollador Junior especializado en **desarrollo móvil multiplataforma** con 
 
 | Categoría | Tecnologías | Nivel de Dominio | Años de Experiencia |
 |-----------|-------------|------------------|---------------------|
-| **📱 Mobile Development** | Flutter, Dart, React Native | Avanzado | 2+ años |
-| **🌐 Frontend Development** | JavaScript, React, HTML5, CSS3 | Intermedio | 1+ año |
-| **⚙️ Backend Development** | Node.js, Express.js, Python | Intermedio | 1+ año |
-| **🗄️ Base de Datos** | MongoDB, MySQL, PostgreSQL, Firebase | Intermedio | 1+ año |
-| **☁️ Cloud & Hosting** | Vercel, Netlify, Heroku, GitHub Pages | Intermedio | 1+ año |
-| **🛠️ Herramientas** | Git, VS Code, Android Studio, Figma | Avanzado | 2+ años |
+| **📱 Mobile Development** | Flutter, Dart | Intermedio | 1 año |
+| **🌐 Frontend Development** | JavaScript, React, HTML5, CSS3 | Junior | 6 meses |
+| **⚙️ Backend Development** | Node.js, Express.js | Junior | 6 meses |
+| **🗄️ Base de Datos** | MongoDB, MySQL, Firebase | Junior | 6 meses |
+| **☁️ Cloud & Hosting** | Vercel, Netlify, GitHub Pages | Junior | 6 meses |
+| **🛠️ Herramientas** | Git, VS Code, Android Studio, Figma | Intermedio | 1 año |
 
 <div align="center">
 
@@ -304,8 +313,8 @@ Portfolio personal desarrollado con tecnologías web modernas.
 
 | Categoría | Logro | Año | Descripción |
 |-----------|-------|-----|-------------|
-| **📱 Desarrollo Móvil** | Especialización Flutter | 2024 | Dominio avanzado de Flutter y Dart para desarrollo multiplataforma |
-| **🌐 Desarrollo Web** | Full Stack Junior | 2024 | Competencias en JavaScript, React y Node.js |
+| **📱 Desarrollo Móvil** | Especialización Flutter | 2024 | Conocimiento intermedio de Flutter y Dart para desarrollo multiplataforma |
+| **🌐 Desarrollo Web** | Frontend Junior | 2024 | Competencias básicas en JavaScript, React y desarrollo web |
 | **📊 Productividad** | 124 Contribuciones | 2024 | Alto nivel de actividad en desarrollo y colaboración |
 | **📚 Aprendizaje** | Cursos Completados | 2024 | Certificaciones en tecnologías modernas |
 | **🤝 Colaboración** | 49 Repositorios | 2024 | Participación activa en proyectos de código abierto |
@@ -397,11 +406,11 @@ Portfolio personal desarrollado con tecnologías web modernas.
 - **UI/UX Design**: Creación de interfaces intuitivas y experiencias de usuario excepcionales
 - **Firebase Integration**: Backend as a Service para aplicaciones móviles
 
-### 🌐 Desarrollo Web Full-Stack
-- **Frontend Moderno**: HTML5, CSS3, JavaScript ES6+, React.js
-- **Backend Robusto**: Node.js, Express.js, APIs RESTful
-- **Bases de Datos**: MongoDB Atlas, MySQL, PostgreSQL, Redis, SQLite, Firebase, Supabase
-- **Cloud & Hosting**: Vercel, Netlify, Heroku, GitHub Pages
+### 🌐 Desarrollo Web
+- **Frontend Básico**: HTML5, CSS3, JavaScript, React.js
+- **Backend Junior**: Node.js, Express.js (en aprendizaje)
+- **Bases de Datos**: MongoDB Atlas, MySQL, Firebase (nivel básico)
+- **Cloud & Hosting**: Vercel, Netlify, GitHub Pages
 
 ---
 
@@ -425,6 +434,7 @@ Portfolio personal desarrollado con tecnologías web modernas.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 
 
 
